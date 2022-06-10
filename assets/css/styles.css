@@ -1,0 +1,17 @@
+.text-badge {
+  padding: .1em .4em;
+  /*color: var(--bs-primary);*/
+  border-color: var(--bs-blue);
+}
+
+.banner {
+  padding: 2em;
+  text-align: center;
+  background: var(--bs-blue);
+  border-radius: 25px;
+}
+
+.projects {
+  --bs-gutter-y: 1.5rem;
+}
+
